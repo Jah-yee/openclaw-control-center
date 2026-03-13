@@ -11,7 +11,7 @@ const PUBLIC_FILES = [
   "README.md",
   "docs/ARCHITECTURE.md",
   "docs/PROGRESS.md",
-  "docs/mission.runbook.md",
+  "docs/RUNBOOK.md",
   "ecosystem.config.cjs",
   "mission.config.json",
   "scripts/run_verifier.sh",
